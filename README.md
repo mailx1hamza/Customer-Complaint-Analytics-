@@ -164,13 +164,6 @@ This project demonstrates how SQL can:
 It bridges the gap between **data analysis and real business impact**.
 
 ---
----
-
-## 🛠️ Tech Stack
-- SQL Server  
-- GitHub  
-
----
 
 ## 👤 Author
 **Yakubu Hamza Ugbedeojo**  
